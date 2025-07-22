@@ -8,13 +8,13 @@ const Contact = () => {
       icon: Mail,
       label: "Email",
       value: "kgsanthossh@email.com",
-      href: "mailto:kgsanthossh@email.com"
+      href: "mailto:kgsanthossh2307@email.com"
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+1 (555) 123-4567",
-      href: "tel:+15551234567"
+      value: "8015407500",
+     
     },
     {
       icon: MapPin,
@@ -28,13 +28,13 @@ const Contact = () => {
     {
       icon: Github,
       label: "GitHub",
-      href: "https://github.com",
+      href: "https://github.com/Kgsanthossh",
       username: "@kgsanthossh"
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/santhossh-k-g-a0bb47349/",
       username: "kgsanthossh"
     },
     {
