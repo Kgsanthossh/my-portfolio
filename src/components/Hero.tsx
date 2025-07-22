@@ -52,9 +52,9 @@ const Hero = () => {
           
           <div className="flex justify-center space-x-6 mb-12">
             {[
-              { icon: Github, href: '#', label: 'GitHub' },
-              { icon: Linkedin, href: '#', label: 'LinkedIn' },
-              { icon: Mail, href: '#', label: 'Email' }
+              { icon: Github, href: 'https://github.com/Kgsanthossh', label: 'GitHub' },
+              { icon: Linkedin, href: 'https://www.linkedin.com/in/santhossh-k-g-a0bb47349/', label: 'LinkedIn' },
+              { icon: Mail, href: 'kgsanthossh2307@gmail.com', label: 'Email' }
             ].map(({ icon: Icon, href, label }) => (
               <a
                 key={label}
